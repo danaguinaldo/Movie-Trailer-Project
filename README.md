@@ -7,5 +7,5 @@ _Make sure you have Python 2.7 downloaded_
 ```
 Download ZIP from GitHub
 Extract all the contents to a folder
-Run **entertainment_center.py**
+Run "entertainment_center.py"
 ```
