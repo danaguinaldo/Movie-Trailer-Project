@@ -1,5 +1,4 @@
 # Danny's Movie Trailer
-<hr>
 Movie Trailer Web Project for Udacity's Full Stack Developer Nanodegree Program. <br>
 
 
